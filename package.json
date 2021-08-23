@@ -1,0 +1,26 @@
+{
+  "name": "11ty-1945",
+  "description": "",
+  "version": "1.0.0",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/pdehaan/11ty-1945/issues"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/11ty-1945#readme",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/11ty-1945.git"
+  },
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
